@@ -109,7 +109,7 @@ me.say_hi()
 
 ## 📂 Featured Projects
 
-### 📊 **Retail Sales Analysis** (Primary Focus)
+### 📊 **Business Analytics Projects** (Primary Focus)
 
 <table>
 <tr>
