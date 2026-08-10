@@ -140,46 +140,79 @@ Used JSON for storing and managing student data.
 
 Tools: Python JSON File Handling
 
-### 🎓 **Education**
-B.Tech in Information Technology
+---
 
-Hemvati Nandan Bahuguna Garhwal University
+## 🎓 Education
 
-📅 Graduated in 2025
+<div align="center">
 
-🎯 Career Goal
+### 🎯 B.Tech in Information Technology
 
-I am actively looking for opportunities as a:
+**Hemvati Nandan Bahuguna Garhwal University** *(Central University)*
 
-Data Analyst | Junior Data Analyst | Business Analyst | Associate Analyst | Data Analyst Intern
+📍 Srinagar, Uttarakhand | 📅 Nov 2021 - Aug 2025 | 📊 **SGPA: 8.17/10**
 
-I want to work in a data-driven organization where I can apply my analytical skills, solve real-world business problems and grow as a Data Analytics professional.
+</div>
 
-📚 Currently Learning
-Advanced SQL
-Python for Data Analysis
-Advanced Excel
-Power BI & DAX
-Data Visualization
-Statistics for Data Analysis
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/payal-rana-914001250"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ranamuskan289@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Payal123-rana"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+**Key Learnings:**
+- ✅ Self-driven learning in data preprocessing, statistical analysis, and machine learning.
+- ✅ Strong foundation in Python, SQL, and data structures.
+- ✅ Hands-on experience with real-world data analytics projects.
+- ✅ Developed problem-solving and critical thinking abilities.
 
-📧 Email: ranamuskan289@gmail.com
-
-💼 LinkedIn: Payal Rana
-
-💻 GitHub: Payal123-rana
-
-💡 "Data is not just numbers — it's a story waiting to be understood."
-<p align="center">
-
-⭐ Thank you for visiting my profile!
-
-</p> ```
+---
 
 
 
+
+## 🌐 Connect With Me
+<table>
+<tr>
+<td width="50%">
+
+  ### 📚 Currently Learning
+
+- 📊 Advanced Tableau dashboard design
+- 🤖 Deep Learning with TensorFlow & PyTorch
+- ☁️ Cloud-based analytics (AWS, Azure)
+- 📈 Time series forecasting techniques
+- 💼 Business intelligence best practices
+
+</td>
+<td width="50%">
+
+### 🤝 Open to Opportunities
+
+- 💼 **Data Analyst** roles
+- 📊 **Business Analyst** positions
+- 🔍 **Associate Analyst** roles
+- 📈 **Analytics Internships**
+- 🚀 **Collaborative data projects**
+- 🤖 Opportunities combining **analytics + ML**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+### Let's Connect, Collaborate & Talk Data Analytics!
+
+I'm always excited to connect with **data enthusiasts, recruiters, hiring managers, and fellow professionals** who are passionate about Data Analytics and Business Intelligence.
+
+Whether it's discussing **SQL, Python, Excel, Power BI, data visualization, or real-world analytics projects**, I'm always open to learning, collaborating, and exploring new opportunities.
+
+📧 **Email:** ranamuskan289@gmail.com
+
+💼 **LinkedIn:** [Payal Rana](https://www.linkedin.com/in/payal-rana-914001250)
+
+💻 **GitHub:** [Payal123-rana](https://github.com/Payal123-rana)
+
+### 💡 *"Turning data into insights, and insights into better decisions."* 📊
+
+---
 
 
 
