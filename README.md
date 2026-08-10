@@ -33,16 +33,35 @@ class DataAnalyst:
         print("Thanks for visiting my profile!")
         print("Let's turn data into insights together!")
 
-
-```python
 me = DataAnalyst()
 me.say_hi()
 ```
 
-### ⚡ What I Do
+<td width="38%" valign="top" align="center">
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="280" alt="Data Analytics"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Row 2: 5 points full width below -->
+<p>⚡ <b>Core Expertise:</b> SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects.</p>
+<p>💻 <b>Programming:</b> Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization.</p>
+<p>🚀 <b>Expanding Into:</b> Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist.</p>
+<p>📚 <b>Currently Learning:</b> Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows.</p>
+<p>🏆 <b>Goal:</b> Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling.</p>
+
+---
+
+## ⚡ What I Do
 
 <p>⚡ <b>Data Analysis:</b> Using SQL, Python, Excel and Power BI to analyze data and generate meaningful insights.</p> <p>🐍 <b>Python:</b> Working with Python, Pandas and NumPy for data manipulation, analysis and problem solving.</p> <p>📊 <b>Data Visualization:</b> Creating dashboards and visualizations using Power BI and Excel to communicate insights clearly.</p> <p>🧹 <b>Data Preparation:</b> Practicing data cleaning, transformation, exploration and analysis.</p> <p>🎯 <b>Goal:</b> Transform raw data into meaningful insights that can support better business decisions.</p>
-💡 Why Hire Me?
+
+---
+
+## 💡 Why Hire Me?
 Technical Skills + Analytical Thinking = Meaningful Business Insights
 📊 Analytics Foundation	🧠 Problem Solving	🚀 Growth Mindset
 Strong foundation in SQL, Python, Excel and Power BI	Enjoy identifying patterns and solving problems	Continuously improving through practical projects
