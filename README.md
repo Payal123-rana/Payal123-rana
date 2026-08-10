@@ -198,19 +198,33 @@ Tools: Python JSON File Handling
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 ### Let's Connect, Collaborate & Talk Data Analytics!
 
 I'm always excited to connect with **data enthusiasts, recruiters, hiring managers, and fellow professionals** who are passionate about Data Analytics and Business Intelligence.
 
-Whether it's discussing **SQL, Python, Excel, Power BI, data visualization, or real-world analytics projects**, I'm always open to learning, collaborating, and exploring new opportunities.
+<br/>
 
-📧 **Email:** ranamuskan289@gmail.com
+<a href="https://www.linkedin.com/in/payal-rana-914001250">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💼 **LinkedIn:** [Payal Rana](https://www.linkedin.com/in/payal-rana-914001250)
+<a href="mailto:ranamuskan289@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 **GitHub:** [Payal123-rana](https://github.com/Payal123-rana)
+<a href="https://github.com/Payal123-rana">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ### 💡 *"Turning data into insights, and insights into better decisions."* 📊
+
+<br/>
+
+</div>
 
 ---
 
