@@ -174,8 +174,8 @@ Provided an interactive view of election results to make constituency-level perf
 **Tools:** `Power BI` `Power Query` `DAX` `Data Modeling`
 
 <div align="center">
-  <a href="https://github.com/Payal123-rana/Tamil-Nadu-Election-PowerBI">
-    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Payal123-rana/Tamil_nadu_election_project">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </div>
 
