@@ -109,36 +109,158 @@ me.say_hi()
 
 ## 📂 Featured Projects
 
-### 🛒 **Retail Sales Analysis** — SQL
-Analyzed retail sales data using SQL.
-Used JOIN, GROUP BY, aggregate functions and subqueries.
-Analyzed customer, product and revenue-related data.
-Generated meaningful insights from retail sales data.
+<table>
+<tr>
+<td width="50%">
 
-Tools: SQL MySQL
+<h3 align="center">🛒 Retail Sales Analysis</h3>
 
-### 🗳️ **Tamil Nadu Election Dashboard** — Power BI
-Created an interactive election analysis dashboard.
-Analyzed constituencies, winners, votes and winning margins.
-Used Power Query, DAX and Data Modeling.
-Created interactive visualizations.
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-SQL_Analytics-blue?style=flat-square"/>
+</div>
 
-Tools: Power BI DAX Power Query
+<br/>
+
+ **Project Objective:**
+
+Analyzed retail sales data using SQL to identify customer, product and revenue-related insights.
+
+📊 **Key Analysis:**
+
+- Analyzed customer and order data.
+- Calculated total revenue and sales performance.
+- Used <b>JOIN</b> to combine multiple tables.
+- Used <b>GROUP BY</b> and aggregate functions.
+- Worked with <b>subqueries</b> and analytical queries.
+- Identified product and customer performance.
+
+🛠️ **Tools:**
+
+<code>SQL</code> <code>MySQL</code> <code>Data Analysis</code>
+
+</td>
+<td width="50%">
+
+<h3 align="center"> Tamil Nadu election </h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Election_Analytics-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square"/>
+</div>
+
+<br/>
+
+**The Business Problem:**
+
+Understanding election performance, constituency-level results, winning margins, and voting patterns across Tamil Nadu.
+
+**My Analysis:**
+
+- ✅ Analyzed constituency-level election data.
+- ✅ Analyzed winners, votes, and winning margins.
+- ✅ Compared election performance across different constituencies.
+- ✅ Created interactive visuals and KPIs for better understanding of election results.
+- ✅ Used Power Query for data transformation and preparation.
+- ✅ Used DAX and data modeling to build meaningful insights.
+
+**Business Impact:**
+
+Provided an interactive view of election results to make constituency-level performance and voting patterns easier to understand.
+
+**Tools:** `Power BI` `Power Query` `DAX` `Data Modeling`
+
+<div align="center">
+<a href="https://github.com/Payal123-rana/Tamil-Nadu-Election-PowerBI">
+  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 👥 **HR Analytics Dashboard**
-Created an HR dashboard for analyzing employee-related data.
-Analyzed workforce and department-related information.
-Presented HR metrics through interactive visualizations.
 
-Tools: Power BI Excel
+<table>
+<tr>
+<td width="50%">
 
-### 🎓 **Student Result Manager** — Python
-Developed a Python-based Student Result Management System.
-Managed student records and result information.
-Used Python functions, conditional statements and file handling.
-Used JSON for storing and managing student data.
+<h3 align="center">👥 HR Analytics Dashboard</h3>
 
-Tools: Python JSON File Handling
+<div align="center">
+<img src="https://img.shields.io/badge/Type-HR_Analytics-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Category-Power_BI-orange?style=flat-square"/>
+</div>
+
+<br/>
+
+**Technical Challenge:**
+Analyzing employee data and presenting meaningful HR insights through an interactive dashboard.
+
+**What I Built:**
+
+- 👥 Developed an interactive HR Analytics Dashboard using Power BI.
+- 📊 Analyzed employee, department, and workforce-related data.
+- 📈 Created KPIs and interactive visualizations for HR analysis.
+- 🔍 Identified patterns and trends in employee data.
+- 🧹 Used data transformation and cleaning techniques to prepare the dataset.
+- 🎯 Designed the dashboard to make HR insights easy to understand.
+
+**Learning Outcome:**
+Applied data analysis, visualization, and dashboard development techniques to a practical HR analytics use case.
+
+**Stack:** `Power BI` `Excel` `Power Query` `DAX` `Data Visualization`
+
+<div align="center">
+<a href="https://github.com/Payal123-rana/HR-Analytics-Dashboard">
+  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Student_result_manager</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Type-Python_Application-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Category-Student_Management-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Storage-JSON-blue?style=flat-square"/>
+</div>
+
+<br/>
+
+**Technical Challenge:**
+Managing student records, marks, and result information efficiently using Python.
+
+**What I Built:**
+
+- 🎓 Built a Python-based Student Result Management System.
+- 📝 Implemented student record and marks management.
+- 📊 Added functionality to calculate and display student results.
+- 💾 Used JSON for storing and retrieving student data.
+- 🔄 Implemented file handling for data persistence.
+- 🧩 Applied Python functions, conditional statements, and data handling concepts.
+
+**Learning Outcome:**
+Strengthened my Python programming, file handling, JSON data management, and problem-solving skills through a practical application.
+
+**Stack:** `Python` `JSON` `File Handling`
+
+<div align="center">
+  <a href="https://github.com/Payal123-rana/Student-Result-Manager">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
