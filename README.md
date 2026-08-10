@@ -142,8 +142,8 @@ Analyzed retail sales data using SQL to identify customer, product and revenue-r
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Payal123-rana/Retail-Sales-Analysis-SQL">
-    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Payal123-rana/Retail-sales--project">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </div>
 
@@ -224,8 +224,8 @@ Applied data analysis, visualization, and dashboard development techniques to a 
 **Stack:** `Power BI` `Excel` `Power Query` `DAX` `Data Visualization`
 
 <div align="center">
-  <a href="https://github.com/Payal123-rana/HR-Analytics-Dashboard">
-    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Payal123-rana/My-Excel-Project---HR-DASHBOARD">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </div>
 
@@ -260,8 +260,8 @@ Strengthened my Python programming, file handling, JSON data management, and pro
 **Stack:** `Python` `JSON` `File Handling`
 
 <div align="center">
-  <a href="https://github.com/Payal123-rana/Student-Result-Manager">
-    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Payal123-rana/Students_result_manager">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </div>
 
