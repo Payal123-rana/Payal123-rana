@@ -180,9 +180,9 @@ Provided an interactive view of election results to make constituency-level perf
 **Tools:** `Power BI` `Power Query` `DAX` `Data Modeling`
 
 <div align="center">
-<a href="https://github.com/Payal123-rana/Tamil-Nadu-Election-PowerBI">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Payal123-rana/Tamil-Nadu-Election-PowerBI">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 </td>
@@ -224,13 +224,12 @@ Applied data analysis, visualization, and dashboard development techniques to a 
 **Stack:** `Power BI` `Excel` `Power Query` `DAX` `Data Visualization`
 
 <div align="center">
-<a href="https://github.com/Payal123-rana/HR-Analytics-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Payal123-rana/HR-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 </td>
-
 <td width="50%">
 
 <h3 align="center">Student_result_manager</h3>
