@@ -49,8 +49,6 @@ me.say_hi()
 <!-- Row 2: 5 points full width below -->
 <p>⚡ <b>Core Expertise:</b> SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects.</p>
 <p>💻 <b>Programming:</b> Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization.</p>
-<p>🚀 <b>Expanding Into:</b> Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist.</p>
-<p>📚 <b>Currently Learning:</b> Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows.</p>
 <p>🏆 <b>Goal:</b> Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling.</p>
 
 ---
@@ -62,16 +60,56 @@ me.say_hi()
 ---
 
 ## 💡 Why Hire Me?
-Technical Skills + Analytical Thinking = Meaningful Business Insights
-📊 Analytics Foundation	🧠 Problem Solving	🚀 Growth Mindset
-Strong foundation in SQL, Python, Excel and Power BI	Enjoy identifying patterns and solving problems	Continuously improving through practical projects
-🛠️ My Analytics Toolkit
-📊 Data Analysis & Business Intelligence
-<p> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
-🐍 Python & Data Libraries
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
-📂 Featured Projects
-🛒 Retail Sales Analysis — SQL
+
+### *Strong Analytics Foundation + Technical Skills = Real Business Impact*
+
+| 📊 **Core Analytics** | 🧠 **Critical Thinking** | 🚀 **Technical Edge** |
+| :---: | :---: | :---: |
+| Proficient in **SQL queries**, **Excel reporting**, and **Power BI dashboards** to analyze data and generate meaningful business insights. | Ability to look beyond numbers, identify **patterns and trends**, and understand WHY they are happening and WHAT insights they can provide. | Hands-on experience with **Python, Pandas, and NumPy** for data manipulation, analysis, automation, and practical problem solving. |
+
+---
+
+## 🛠️ My Analytics Toolkit
+
+### 📊 Data Analysis & BI (My Core Strength)
+*The daily tools I use to solve business problems*
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 💻 Programming & Automation
+*Used for cleaning messy data and automating workflows*
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔭 Advanced Skills (My Competitive Advantage)
+*Technologies that set me apart from other analysts*
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 **Retail Sales Analysis** — SQL
 Analyzed retail sales data using SQL.
 Used JOIN, GROUP BY, aggregate functions and subqueries.
 Analyzed customer, product and revenue-related data.
@@ -79,7 +117,7 @@ Generated meaningful insights from retail sales data.
 
 Tools: SQL MySQL
 
-🗳️ Tamil Nadu Election Dashboard — Power BI
+### 🗳️ **Tamil Nadu Election Dashboard** — Power BI
 Created an interactive election analysis dashboard.
 Analyzed constituencies, winners, votes and winning margins.
 Used Power Query, DAX and Data Modeling.
@@ -87,14 +125,14 @@ Created interactive visualizations.
 
 Tools: Power BI DAX Power Query
 
-👥 HR Analytics Dashboard
+### 👥 **HR Analytics Dashboard**
 Created an HR dashboard for analyzing employee-related data.
 Analyzed workforce and department-related information.
 Presented HR metrics through interactive visualizations.
 
 Tools: Power BI Excel
 
-🎓 Student Result Manager — Python
+### 🎓 **Student Result Manager** — Python
 Developed a Python-based Student Result Management System.
 Managed student records and result information.
 Used Python functions, conditional statements and file handling.
@@ -102,7 +140,7 @@ Used JSON for storing and managing student data.
 
 Tools: Python JSON File Handling
 
-🎓 Education
+### 🎓 **Education**
 B.Tech in Information Technology
 
 Hemvati Nandan Bahuguna Garhwal University
